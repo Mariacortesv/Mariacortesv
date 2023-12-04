@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maria Cortes Vargas</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariacortesv" alt="mariacortesv" /></a> </p>
-
 - 🔭 I’m currently working on [Lego Web Replica for my class](https://github.com/fs4-equipo2/Replica_Lego)
 
 - 🌱 I’m currently learning **HTML5, CSS, JavaScript, React, node.js**
@@ -29,3 +27,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariacortesv&show_icons=true&locale=en&layout=compact" alt="mariacortesv" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariacortesv" alt="mariacortesv" /></a> </p>
