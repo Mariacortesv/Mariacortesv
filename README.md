@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Maria Cortes Vargas</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<h3 align="center"> Junior Front End Developer 💻 | Architect 🏗 | 🌟 UX/UI Designer Student</h3>
+<h4 align="center"> A versatil professional, ready to tackle any challenge! 💪🏼</h4>
 
 - 🔭 I’m currently working on [Lego Web Replica for my class](https://github.com/fs4-equipo2/Replica_Lego)
 
-- 🌱 I’m currently learning **HTML5, CSS, JavaScript, React, node.js**
+- 🌱 I’m currently learning **HTML5, CSS, JavaScript, TypeScript, React, node.js**
+- 🌱 Also learning **UX/UI fundamentals, Figma, Adobe XD**
 
 - 👯 I’m looking to collaborate on **Front End Projects and UX/UI Design**
 
