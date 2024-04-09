@@ -2,7 +2,7 @@
 <h3 align="center"> Junior Front End Developer 💻 | Architect 🏗 | 🌟 UX/UI Designer Student</h3>
 <h4 align="center"> A versatil professional, ready to tackle any challenge! 💪🏼</h4>
 
-- 🔭 I’m currently working on [Lego Web Replica for my class](https://github.com/fs4-equipo2/Replica_Lego)
+- 🔭 I’m currently working on [Enhancing cinesa web page for fun]https://github.com/fs4-equipo2/ReplicaCinesa
 
 - 🌱 I’m currently learning **HTML5, CSS, JavaScript, TypeScript, React, node.js**
 - 🌱 Also learning **UX/UI fundamentals, Figma, Adobe XD**
