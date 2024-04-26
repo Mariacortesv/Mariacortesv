@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Front End Projects and UX/UI Design**
 
-- 👨‍💻 All of my projects are available at [github.com/Mariacortesv](github.com/Mariacortesv)
+- 👨‍💻 All of my collaborative projects are available at [https://github.com/fs4-equipo2/lego)
 
 - 💬 Ask me about **Anything 😊**
 
