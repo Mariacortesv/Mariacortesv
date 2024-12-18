@@ -2,7 +2,7 @@
 <h3 align="center">  🌟 UX/UI Designer | Junior Front End Developer 💻 | Architect 🏗 </h3>
 <h4 align="center"> A versatil professional, ready to tackle any challenge! 💪🏼</h4>
 
-- 🔭 I’m currently working on a start-up doing designingresponsive websites and mobile apps, prioritizing user experience and accessibility while collaborating with clients and developers to lead wireframe creation and enhance user engagement.
+- 🔭 I’m currently working on a start-up designing responsive websites and mobile apps, prioritizing user experience and accessibility while collaborating with clients and developers to lead wireframe creation and enhance user engagement.
 
 - 👯 I’m looking to collaborate on **Front End Projects and UX/UI Design**
 
