@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maria Cortes</h1>
-<h3 align="center">  🌟 UX/UI Designer Student | Junior Front End Developer 💻 | Architect 🏗 </h3>
+<h3 align="center">  🌟 UX/UI Designer | Junior Front End Developer 💻 | Architect 🏗 </h3>
 <h4 align="center"> A versatil professional, ready to tackle any challenge! 💪🏼</h4>
 
 - 🔭 I’m currently working on a start-up doing designingresponsive websites and mobile apps, prioritizing user experience and accessibility while collaborating with clients and developers to lead wireframe creation and enhance user engagement.
