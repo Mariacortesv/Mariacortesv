@@ -1,11 +1,8 @@
-<h1 align="center">Hi 👋, I'm Maria Cortes Vargas</h1>
-<h3 align="center"> Junior Front End Developer 💻 | Architect 🏗 | 🌟 UX/UI Designer Student</h3>
+<h1 align="center">Hi 👋, I'm Maria Cortes</h1>
+<h3 align="center">  🌟 UX/UI Designer Student | Junior Front End Developer 💻 | Architect 🏗 </h3>
 <h4 align="center"> A versatil professional, ready to tackle any challenge! 💪🏼</h4>
 
-- 🔭 I’m currently working on [Enhancing cinesa web page for fun]https://github.com/fs4-equipo2/ReplicaCinesa
-
-- 🌱 I’m currently learning **HTML5, CSS, JavaScript, TypeScript, React, node.js**
-- 🌱 Also learning **UX/UI fundamentals, Figma, Adobe XD**
+- 🔭 I’m currently working on a start-up doing designingresponsive websites and mobile apps, prioritizing user experience and accessibility while collaborating with clients and developers to lead wireframe creation and enhance user engagement.
 
 - 👯 I’m looking to collaborate on **Front End Projects and UX/UI Design**
 
